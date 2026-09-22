@@ -1,7 +1,7 @@
-<h1 align="center">Smart Contact Manager V1.0.0</h1>
+<h1 align="center">Spring Contact Manager </h1>
 
 <p align="center">
-  <em>Desktop based Smart Contact Manager</em>
+  <em>Desktop based Spring Contact Manager</em>
 </p>
 
 <p align="center">
