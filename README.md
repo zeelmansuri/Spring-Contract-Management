@@ -132,4 +132,6 @@ razorpay.key.secret=<your_razorpay_key_secret>
 
 ## Conclusion
 
-The Smart Contact Manager is a comprehensive solution for managing contacts with modern features and integrations. By leveraging Java and Spring Boot, it provides a robust backend, while Thymeleaf and Bootstrap ensure a responsive and user-friendly frontend. The addition of REST APIs, payment integration, and email notifications make it a versatile tool for both personal and professional use.
+The Smart Contact Manager is a comprehensive solution for managing contacts with modern features and integrations. By leveraging Java and Spring Boot, it provides a robust backend, while Thymeleaf and Bootstrap ensure a responsive and user-friendly frontend.
+
+This is clone repository taken reference from StepJes/contact manager github.
